@@ -1,7 +1,7 @@
 Description: Deep mnist training
 Engine: gotpl
 Home: http://kuberlab.com
-Icon: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiw3uTbj5LVAhXKilQKHbBrDuIQjRwIBw&url=http%3A%2F%2Frodrigob.github.io%2Fare_we_there_yet%2Fbuild%2Fclassification_datasets_results.html&psig=AFQjCNFV8pagtjfbYmBnFcVCYoIIv1_JMw&ust=1500442954093968
+Icon: http://rodrigob.github.io/are_we_there_yet/build/images/mnist.png?1363085077
 Keywords:
 - kubernets
 - tensorflow
