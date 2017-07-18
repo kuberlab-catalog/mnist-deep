@@ -8,7 +8,7 @@ Images:
   PSImage: tensorflow/tensorflow
 Jupyter:
   UseGPU: false
-  Image: tensorflow/tensorflow:latest-gpu
+  Image: kuberlab/mlboard-jupyter-gpu:latest
   CPU: 100m
   CPULimit: 8000m
   Memory: 128Mi
